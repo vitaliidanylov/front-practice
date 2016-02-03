@@ -1,0 +1,14 @@
+body{
+	background: lightcyan;
+	width: 800px;
+	margin: auto;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+p{
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
