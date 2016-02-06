@@ -1,0 +1,26 @@
+[
+	{
+		"description" : "Buy products",
+		"tags" : ["shoping","chores"]
+	},
+	{
+		"description" : "To do some new tasks",
+		"tags" : ["writing","job"]
+	},
+	{
+		"description" : "Prepare for lecture on Monday",
+		"tags" : ["job","teaching"]
+	},
+	{
+		"description" : "Answer for emails",
+		"tags" : ["job"]
+	},
+	{
+		"description" : "Take Grace to the park",
+		"tags" : ["chores","pets"]
+	},
+	{
+		"description" : "Finish writing this book",
+		"tags" : ["writing","job"]
+	}
+]
